@@ -62,7 +62,7 @@
         {
             "id": 11,
             "time": "2023/09/18",
-            "title": "これはテストメッセージです。",
-            "content": "This is Test Content"
+            "title": "ここはクリックすることができます！",
+            "content": "予めGithubにあげてあるjsonにid,time,title,contectを指定してあり、それに応じてここに表示されているメッセージが変わります！"
        }
 ]
